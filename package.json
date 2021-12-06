@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-presentation-mode2",
+  "version": "1.0.0",
+  "description": "Add presentation support for you vuepress website",
+  "main": "./lib/node/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/justforuse/vuepress-plugin-presentation-mode2.git"
+  },
+  "keywords": [
+    "vuepress-plugin"
+  ],
+  "author": "justforuse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justforuse/vuepress-plugin-presentation-mode2/issues"
+  },
+  "homepage": "https://github.com/justforuse/vuepress-plugin-presentation-mode2#readme",
+  "devDependencies": {
+    "@vuepress/client": "^2.0.0-alpha.1",
+    "@vuepress/utils": "^2.0.0-alpha.1"
+  }
+}
