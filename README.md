@@ -2,7 +2,7 @@
 
 A plugin for [vuepress-next](https://v2.vuepress.vuejs.org/) to make your page into presentation mode
 
-Keyboard shortcut: `Ctrl` + `Shift` + `P`. (both for Windows and Mac)
+Keyboard shortcut: `Ctrl` + `Shift` + `F`. (both for Windows and Mac)
 
 ## Install
 
