@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/justforuse/vuepress-plugin-presentation-mode2#readme",
   "devDependencies": {
-    "@vuepress/client": "^2.0.0-alpha.1",
-    "@vuepress/utils": "^2.0.0-alpha.1"
+    "@vuepress/client": "2.0.0-alpha.1",
+    "@vuepress/utils": "2.0.0-alpha.1"
   }
 }
